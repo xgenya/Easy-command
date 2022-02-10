@@ -1,0 +1,13 @@
+{
+  "home.existed": "这个家已存在,你还设置干啥!",
+  "home.set.success": "设置成功! :)",
+  "tp.success": "传送成功! :)",
+  "tp.error": "传送失败! :(",
+  "delete.success": "删除成功! :)",
+  "delete.error": "没找到家,删除失败! :)",
+  "home.does.not.exist": "没找到这个名字的家,搁着虚空传送呢? :(",
+  "day": "佛说,要有光! :)",
+  "sun": "佛说,要有光! :)",
+  "rain": "佛说,要有水! :)",
+  "night": "佛说,不要光! :)"
+}
