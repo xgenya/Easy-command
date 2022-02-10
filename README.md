@@ -1,5 +1,6 @@
 # Easy Command
 
+A simple command mod that allows you to use alternative commands to achieve the effect of the original command without cheating
 
 
 ## License
